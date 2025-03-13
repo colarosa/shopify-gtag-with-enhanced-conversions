@@ -17,7 +17,7 @@ This script integrates Google Ads conversion tracking into an e-commerce platfor
 
 ## Installation
 
-1. Copy and Paste this code into the customer events section of your Shopify Store. Bavigate to tge admin area to find this section.
+1. Copy and Paste this code into the Customer Events section of your Shopify Store. Navigate to the admin area to find this section.
 2. Replace `XXXXXXXX` and `XXXXXXXXXXXX` with your **Google Ads Conversion ID** and **Conversion Label**.
 3. Ensure that your project includes an `analytics` event system that triggers `checkout_started` and `checkout_completed`.
 4. Add the script to your checkout page or global JavaScript bundle.
